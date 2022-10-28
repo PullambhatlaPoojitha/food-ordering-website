@@ -1,0 +1,12 @@
+.head{
+    font-size: 18px;
+    color: black;
+    margin: 40px;
+    font-weight: 900;
+}
+.body{
+    font-size: 15px;
+    color: rgb(36, 35, 35);
+    margin: 80px;
+    font-weight: 400;
+}
